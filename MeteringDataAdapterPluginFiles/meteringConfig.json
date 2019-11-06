@@ -1,0 +1,7 @@
+{
+  "configFilename": "meteringConfig.json",
+  "DataHost": "1.1.1.1",
+  "DataDbName": "metering_warehouse_db",
+  "DataUserName": "uname",
+  "DataPassword": "pass"
+}
