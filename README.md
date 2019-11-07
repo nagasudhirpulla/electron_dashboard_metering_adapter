@@ -9,3 +9,8 @@ The folder *MeteringDataAdapterPluginFiles* can be added to electron dashboard d
 It is created by copying the contents of bin/Debug folder into a folder and adding manifest.json file to it.
 
 This data adapter is made using WPF.
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nagasudhirpulla/electron_dashboard_metering_adapter/master/assets/img/metering_warehouse_poster.png">
+</p>
