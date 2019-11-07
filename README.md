@@ -12,5 +12,5 @@ This data adapter is made using WPF.
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nagasudhirpulla/electron_dashboard_metering_adapter/master/assets/img/metering_warehouse_poster.png">
+  <img src="https://raw.githubusercontent.com/nagasudhirpulla/electron_dashboard_metering_adapter/master/assets/img/metering_data_adapter_poster.png">
 </p>
